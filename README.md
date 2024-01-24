@@ -20,8 +20,8 @@ This project aims to classify bird species using Convolutional Neural Networks (
 
 ## Dataset
 
-The bird dataset used for training and testing the model consists of 7400 images from 50 different species(Note: This is reduced dataset of orignal dataset)
-link :https://www.dropbox.com/scl/fi/lxzlxhzxzjkovc055w5vu/Reduced_Dataset.zip?rlkey=s41uw5y2k0ljhkkskkxfoa6jo&dl=0
+The bird dataset used for training and testing the model consists of 7400 images from 50 different species(Note: This is reduced version of orignal dataset)
+:https://www.dropbox.com/scl/fi/lxzlxhzxzjkovc055w5vu/Reduced_Dataset.zip?rlkey=s41uw5y2k0ljhkkskkxfoa6jo&dl=0
 
 The original dataset: https://www.kaggle.com/code/vencerlanz09/bird-classification-using-cnn-efficientnetb0/input
 
