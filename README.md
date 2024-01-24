@@ -1,7 +1,3 @@
-Certainly! Here's a template for a README file for a bird classification project using CNN (InceptionV3):
-
----
-
 # Bird Classification using CNN (InceptionV3)
 
 ## Overview
