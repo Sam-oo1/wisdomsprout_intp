@@ -15,7 +15,7 @@ This project aims to classify bird species using Convolutional Neural Networks (
 - Python
 - TensorFlow
 - Keras
-- InceptionV3
+- InceptionV3 - Pretrained model
 - Git
 
 ## Dataset
